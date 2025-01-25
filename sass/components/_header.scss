@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid black;
+
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  transition: all 0.5s ease;
+  z-index: 1000;
+}
