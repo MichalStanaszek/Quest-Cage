@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden"><defs>
+
+<symbol id="icon-codesandbox" viewBox="0 0 32 32"><path d="m2.667 8 13.94-8 13.94 8 .12 15.933L16.607 32l-13.94-8zm2.784 3.308v6.343l4.46 2.48v4.688l5.296 3.061V16.851zm22.318 0-9.756 5.543V27.88l5.296-3.061v-4.685l4.46-2.481zM6.845 8.801l9.737 5.525 9.76-5.573-5.161-2.929-4.547 2.593-4.573-2.624z"/></symbol>
+
+<symbol id="icon-hamburger" viewBox="0 0 32 32"><path d="M2 6h28v6H2zm0 8h28v6H2zm0 8h28v6H2z"/></symbol>
+
+</defs></svg>
