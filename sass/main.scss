@@ -1,6 +1,31 @@
 @import "components/header";
 @import "components/mobile-window";
+@import "components/buttons";
 
 body {
   background-color: #601030;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
 }
